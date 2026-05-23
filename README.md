@@ -1,2 +1,2 @@
 # CPP
-learning basics 
+learning basics of c++
