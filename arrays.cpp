@@ -14,7 +14,7 @@ int main()
     cout << endl;
 
     // Modify array element
-    numbers[2] = 99;
-    cout << "After modification: " << numbers[2] << endl;
+    numbers[3] = 99;
+    cout << "After modification: " << numbers[3] << endl;
     return 0;
 }
