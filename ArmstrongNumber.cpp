@@ -1,6 +1,7 @@
 #include <iostream>
 using namespace std;
 
+
 int main() {
     int n, temp, digit, sum = 0;
     cout << "Enter a number: ";
